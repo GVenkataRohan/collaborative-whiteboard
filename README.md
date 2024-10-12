@@ -12,7 +12,7 @@
 ## Running the Project
 To run the Whiteboard project locally:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine
   
 2. Navigate to the project directory:
    ```bash
